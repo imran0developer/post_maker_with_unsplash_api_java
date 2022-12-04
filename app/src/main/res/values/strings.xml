@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Post Maker with unsplash Api</string>
+    <string name="app_id">ca-app-pub-3084804396877387~8872542996</string>
+    <string name="native_id">ca-app-pub-3084804396877387/8129758223</string>
+    <string name="sample_text1">Seekh kar gayi hai vo mohabbat mujhse
+    Ab jisse bhi karegi BEMISAAL karegi</string>
+    <string name="sample_text">Seekh kar gayi hai vo mohabbat mujhse
+    ab jiss se bhi karegi be-misaal karegi</string>
+    <string name="sample_text2">- Imran Ali</string>
+    <string name="unsplash_api_key">RtC63exQv82NPsaxlRx0FU9fCbqtEP3GrsUbv5QNjwA</string>
+
+    <string name="web_client_id">11912716517-ffud203nl51sov65ak4mekpn4sc44ke8.apps.googleusercontent.com</string>
+</resources>
